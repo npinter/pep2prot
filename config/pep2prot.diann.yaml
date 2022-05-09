@@ -1,0 +1,5 @@
+num_jobs: 0
+peptide_column_name: "Stripped.Sequence"
+protein_expression_csv: "path\\to\\diann_output.csv"
+fasta_db_path: "path\\to\\HUMAN_EBI-reference_one-protein-per-gene_20210614_iRTS_CONs.fasta"
+output_folder: "path\\to\\output\\"
