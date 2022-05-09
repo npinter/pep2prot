@@ -17,7 +17,7 @@ Create a conda environment (use [Miniconda](https://docs.conda.io/en/latest/mini
 
 `conda activate pep2prot`
 
-Install the NumPy, Pandas, PyYAML, BioPython and termcolor:
+Install NumPy, Pandas, PyYAML, BioPython and termcolor:
 
 `conda install -c conda-forge -c bioconda numpy pandas pyyaml biopython termcolor`
 
